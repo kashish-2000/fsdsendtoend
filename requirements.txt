@@ -3,5 +3,6 @@ scikit-learn
 numpy
 seaborn
 ipykernel
+dvc
 
 -e .
